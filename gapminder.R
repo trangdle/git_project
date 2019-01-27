@@ -1,4 +1,4 @@
-#library software carpentry ggplot
+#library software carpentry: ggplot (a powerful tool for making amazing abtract art :))
 #january 26, 2019
 
 gapminder <- read.csv("data/gapminder_data.csv")
