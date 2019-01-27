@@ -1,4 +1,4 @@
-#library sopftware carpentry ggplot
+#library software carpentry ggplot
 #january 26, 2019
 
 gapminder <- read.csv("data/gapminder_data.csv")
